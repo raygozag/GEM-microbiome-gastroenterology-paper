@@ -1,4 +1,4 @@
-# GEM-microbiome-nature-paper
+# GEM-microbiome-gastroenterology-paper
 
 
 The current repository contains the source files for the ASV microbiome based risk scores.
